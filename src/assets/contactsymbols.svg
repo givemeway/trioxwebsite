@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="152.21899"
+   height="50.959"
+   viewBox="2.7755576e-017 0 213.10659 71.342599"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="symbol-Kontaktmoeglichkeiten.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1134"
+     inkscape:window-height="863"
+     id="namedview32"
+     showgrid="false"
+     scale-x="1.4"
+     viewbox-x="2.7755576e-017"
+     viewbox-width="243.71"
+     inkscape:zoom="2.1179624"
+     inkscape:cx="46.506964"
+     inkscape:cy="32.9795"
+     inkscape:window-x="328"
+     inkscape:window-y="168"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg30" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="linear-gradient"
+       x1="0.5"
+       x2="0.5"
+       y2="1"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#03c9d6"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#02a6b1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient841"
+       gradientUnits="userSpaceOnUse"
+       x1="68.925079"
+       x2="68.925079"
+       y2="85.214722"
+       gradientTransform="scale(0.99883642,1.0011649)"
+       y1="51.660706" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient843"
+       gradientUnits="userSpaceOnUse"
+       x1="-2527.3674"
+       x2="-2527.3674"
+       y2="-20463.477"
+       gradientTransform="scale(1.397606,0.71550924)"
+       y1="-20490.055" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient845"
+       gradientUnits="userSpaceOnUse"
+       x1="15.130371"
+       x2="15.130371"
+       y2="30.260742"
+       gradientTransform="scale(1.1130593,0.89842475)"
+       y1="0" />
+  </defs>
+  <g
+     id="Gruppe_1336"
+     data-name="Gruppe 1336"
+     transform="translate(-25.657962,-52.341652)">
+    <g
+       id="Call"
+       transform="translate(28.141,55.028)">
+      <g
+         id="Gruppe_18"
+         data-name="Gruppe 18"
+         transform="translate(15.751,15.693)">
+        <path
+           id="Pfad_6"
+           data-name="Pfad 6"
+           d="m 82.086,75.177 c -1.129,-0.327 -2.259,-0.578 -3.363,-0.955 -2.46,-0.829 -4.217,0.2 -5.748,1.984 a 0.947,0.947 0 0 1 -0.828,0.251 16.806,16.806 0 0 1 -11.094,-10.7 1.3,1.3 0 0 1 0.4,-1.683 4.543,4.543 0 0 0 1.782,-5.049 c -0.351,-1.281 -0.7,-2.587 -1.079,-3.868 a 4.679,4.679 0 0 0 -3.765,-3.366 c -2.309,-0.553 -5.346,2.286 -6,4.27 -0.552,1.633 -0.226,3.642 0,5.426 C 54.2,74.725 66.249,85.275 79.7,85.3 a 3.531,3.531 0 0 0 3.087,-1.331 c 0.5,-0.6 1.1,-1.105 1.657,-1.658 a 3.815,3.815 0 0 0 0.979,-3.894 4.513,4.513 0 0 0 -3.337,-3.24 z"
+           transform="translate(-52.09,-51.721)"
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient841)" />
+      </g>
+      <path
+         id="Pfad_291"
+         data-name="Pfad 291"
+         d="M 32.48,0 A 32.48,32.48 0 1 1 0,32.48 32.48,32.48 0 0 1 32.48,0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#95989a;stroke-width:1" />
+    </g>
+    <g
+       id="E-Mail"
+       transform="translate(99.52,55.028)">
+      <g
+         id="Ellipse_56"
+         data-name="Ellipse 56"
+         style="fill:none;stroke:#95989a;stroke-width:1;stroke-linejoin:round">
+        <circle
+           cx="32.48"
+           cy="32.48"
+           r="32.48"
+           id="circle13"
+           style="stroke:none" />
+        <circle
+           cx="32.48"
+           cy="32.48"
+           r="31.98"
+           id="circle15"
+           style="fill:none" />
+      </g>
+      <path
+         id="Pfad_78"
+         data-name="Pfad 78"
+         d="m -3550.836,-14660.823 18.618,13.139 18.526,-13.139 v 19.016 h -37.144 z"
+         transform="translate(3564.266,14685.098)"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient843)" />
+      <path
+         id="Pfad_80"
+         data-name="Pfad 80"
+         d="m -3486.725,-14657.207 -18.622,12.945 -18.489,-12.945 z"
+         transform="translate(3537.266,14678.612)"
+         inkscape:connector-curvature="0"
+         style="fill:#03c9d6" />
+    </g>
+    <g
+       id="Live"
+       transform="translate(170.9,55.028)">
+      <g
+         id="Komponente_3"
+         data-name="Komponente 3"
+         transform="translate(15.638,19.84)">
+        <path
+           id="Vereinigungsmenge_4"
+           data-name="Vereinigungsmenge 4"
+           d="M 0,17.386 V 6 A 6.007,6.007 0 0 1 6,0 h 21.682 a 6.007,6.007 0 0 1 6,6 v 11.386 a 6.007,6.007 0 0 1 -6,6 H 6 A 6,6 0 0 1 4.6,23.221 L 0,27.187 Z M 23.517,9.372 a 3.261,3.261 0 0 0 -1.253,1.386 4.6,4.6 0 0 0 -0.442,2.041 V 13 a 3.642,3.642 0 0 0 1.049,2.723 3.744,3.744 0 0 0 2.718,1.022 4.083,4.083 0 0 0 1.726,-0.361 3.054,3.054 0 0 0 1.234,-1 l -1,-1.113 a 2.2,2.2 0 0 1 -1.832,0.847 1.8,1.8 0 0 1 -1.252,-0.448 1.882,1.882 0 0 1 -0.593,-1.19 h 4.834 V 12.654 A 4.005,4.005 0 0 0 27.811,9.874 3.171,3.171 0 0 0 25.359,8.894 3.537,3.537 0 0 0 23.517,9.372 Z M 16.708,16.6 h 1.937 l 2.561,-7.575 h -2.119 l -1.41,5.1 -1.41,-5.1 h -2.119 z m -5.576,0 h 2.034 V 9.025 h -2.034 z m -3.81,0 H 9.357 V 5.846 H 7.322 Z m 4,-10.285 a 1.072,1.072 0 0 0 0.007,1.506 1.3,1.3 0 0 0 1.649,0 1.068,1.068 0 0 0 0,-1.506 1.32,1.32 0 0 0 -1.66,0 z m 15.4,5.776 H 23.9 a 2.1,2.1 0 0 1 0.481,-1.162 1.275,1.275 0 0 1 0.978,-0.406 1.323,1.323 0 0 1 1,0.367 1.505,1.505 0 0 1 0.365,1.039 v 0.16 0 z"
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient845)" />
+      </g>
+      <g
+         id="Ellipse_98"
+         data-name="Ellipse 98"
+         style="fill:none;stroke:#95989a;stroke-width:1;stroke-linejoin:round">
+        <circle
+           cx="32.48"
+           cy="32.48"
+           r="32.48"
+           id="circle23"
+           style="stroke:none" />
+        <circle
+           cx="32.48"
+           cy="32.48"
+           r="31.98"
+           id="circle25"
+           style="fill:none" />
+      </g>
+    </g>
+  </g>
+</svg>
