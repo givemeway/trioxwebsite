@@ -1,7 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import ContactUS from "./contactus";
-import HomePage from "./Homepage";
 
 function App() {
   return (
