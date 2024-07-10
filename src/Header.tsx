@@ -7,7 +7,7 @@ const Header = () => {
       <div className="flex justify-center items-center bg-gradient-to-r from-sky-500 to-emerald-500 w-full h-full">
         <div className=" grid grid-cols-3 w-full h-[50px]">
           <h3 className="flex justify-center items-center h-full w-full col-span-1 text-grey font-bold text-xl">
-            Triox Technology Pvt Ltd
+            Triox Technologies Pvt Ltd
           </h3>
           <div className="hidden md:grid md:grid-cols-5 md:col-span-2 items-center h-full">
             <span className="hover:text-[#006E73] cursor-pointer col-span-1">
